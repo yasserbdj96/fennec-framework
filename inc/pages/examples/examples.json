@@ -1,0 +1,10 @@
+{
+    "pages":{
+        "examples.php:text/html":"/(?'page'examples|ex)"
+    },
+    "page_settings":{
+        "title":"examples",
+        "css":[],
+        "js":[]
+    }
+}

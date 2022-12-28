@@ -1,0 +1,6 @@
+{
+    "pages":{
+        "include.js:application/javascript":"/(?'page'include.js)",
+        "msg.js:application/javascript":"/(?'page'msg.js)"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "pages":{
+        	"errors.css:text/css":"/(?'page'errors.css)",
+        	"errors.php:text/html":"/(?'page'404|errors)"
+    },
+	"e404":{
+		"title":"404 | Page not fund!",
+		"msg":"404 | Page not fund!",
+		"header":"HTTP/1.0 404 Not found!"
+	},
+	"page_settings":{
+        	"title":"Error",
+        	"css":["errors.css"],
+        	"js":[]
+    }
+}

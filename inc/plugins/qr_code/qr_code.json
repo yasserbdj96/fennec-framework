@@ -1,0 +1,5 @@
+{
+    "pages":{
+        "qr_code.php:image/*":"/qr-(?'text'[^/]+)"
+    }
+}

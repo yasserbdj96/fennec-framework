@@ -1,0 +1,8 @@
+{
+    "pages":{
+        "sw.php:application/javascript":"/(?'page'sw.js)",
+        "manifest.webmanifest.json:application/json":"/(?'page'manifest.webmanifest)",
+        "serviceworker.js:application/javascript":"/(?'page'serviceworker.js)"
+        
+    }
+}

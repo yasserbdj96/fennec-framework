@@ -1,0 +1,5 @@
+{
+    "pages":{
+        "css.css:text/css":"/(?'page'css.css)"
+    }
+}

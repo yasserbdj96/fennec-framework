@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+body {
+    display: table;
+}
+
+.hi_msg {
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+    /*font-size: 35px;*/
+}

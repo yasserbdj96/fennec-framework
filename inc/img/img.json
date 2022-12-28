@@ -1,0 +1,5 @@
+{
+    "pages":{
+        "logo.png:image/x-png":"/(?'page'logo.png)"
+    }
+}

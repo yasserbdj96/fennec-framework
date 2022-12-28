@@ -1,0 +1,5 @@
+{
+    "pages":{
+        "img_rsz.php:image/*":"/img-(?'text'[^/]+)"
+    }
+}

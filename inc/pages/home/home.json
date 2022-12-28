@@ -1,0 +1,11 @@
+{
+    "pages":{
+        "home.php:text/html":"/(?'page'index.php||home|index.html)",
+        "home.css:text/css":"/(?'page'home.css)"
+    },
+    "page_settings":{
+        "title":"Welcome to Home Page",
+        "css":["home.css"],
+        "js":[]
+    }
+}
